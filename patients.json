@@ -1,0 +1,13 @@
+{
+  "P001": { "name": "Sikandar Khan", "city": "Peshawar", "age": "34", "gender": "Male", "height": "1.75", "weight": "90", "bmi": "33.06", "verdict": "overweight" },
+  "P002": { "name": "Fatima Ali", "city": "Karachi", "age": "29", "gender": "Female", "height": "1.60", "weight": "52", "bmi": "20.31", "verdict": "healthy" },
+  "P003": { "name": "Ahmed Khan", "city": "Lahore", "age": "42", "gender": "Male", "height": "1.80", "weight": "95", "bmi": "29.32", "verdict": "overweight" },
+  "P004": { "name": "Zara Siddiqui", "city": "Islamabad", "age": "26", "gender": "Female", "height": "1.65", "weight": "62", "bmi": "22.77", "verdict": "healthy" },
+  "P005": { "name": "Bilal Noor", "city": "Multan", "age": "37", "gender": "Male", "height": "1.70", "weight": "105", "bmi": "36.33", "verdict": "obese" },
+  "P006": { "name": "Hina Rashid", "city": "Faisalabad", "age": "31", "gender": "Female", "height": "1.55", "weight": "49", "bmi": "20.39", "verdict": "healthy" },
+  "P007": { "name": "Imran Rafi", "city": "Quetta", "age": "45", "gender": "Male", "height": "1.78", "weight": "79", "bmi": "24.91", "verdict": "healthy" },
+  "P008": { "name": "Mehwish Younus", "city": "Hyderabad", "age": "23", "gender": "Female", "height": "1.62", "weight": "85", "bmi": "32.37", "verdict": "overweight" },
+  "P009": { "name": "Adnan Saeed", "city": "Rawalpindi", "age": "39", "gender": "Male", "height": "1.75", "weight": "110", "bmi": "35.91", "verdict": "obese" },
+  "P010": { "name": "Ayesha Babar", "city": "Sialkot", "age": "28", "gender": "Female", "height": "1.68", "weight": "59", "bmi": "20.90", "verdict": "healthy" },
+  "P011": { "name": "Tariq Hussain", "city": "Larkana", "age": "52", "gender": "Male", "height": "1.73", "weight": "70", "bmi": "23.39", "verdict": "healthy" }
+}
